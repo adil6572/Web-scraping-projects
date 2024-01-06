@@ -11,6 +11,7 @@ Welcome to the **Web Scraping Projects** repository! This collection features va
 | 3          | Houzz Scraper                  | Scrapy and BeautifulSoup script for extracting contact information from business websites on [www.houzz.com](https://www.houzz.com/). Stores data in a CSV file. | [Houzz Scraper](https://github.com/adil6572/houzz-scraper) |
 | 4          | Yellow Pages Scraper           | Python tool to extract business information from Yellow Pages, offering command-line and Streamlit interfaces for seamless data retrieval. | [Yellow Pages Scraper](https://github.com/adil6572/YP-business-scraper) |
 | 5          | NextInsurance Agent Scraper    | Scraper designed to extract contact information for agents from [NextInsurance.com](https://www.nextinsurance.com/agents).                    | [NextInsurance Agent Scraper](https://github.com/adil6572/NextInsurance-Scraper) |
+| 6          | Wasalt Real Estate Scraper   | Scrape the real estate information with 50+ Attributes from [wasalt](https://wasalt.com/en/sale/search).                    | [Wasalt Real Estate Scraper](https://github.com/adil6572/wasalt-real-estate-scraper) |
 
 Explore these projects and use the provided code as a reference or starting point for your web scraping endeavors.
 
